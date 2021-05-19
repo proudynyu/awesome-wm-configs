@@ -18,6 +18,6 @@ This repository contains the configuration files for awesome wm (not only for Ar
 
 	- Empty for now (it has the battery.lua that does not work for now)
 
-- [Vicious] (https://github.com/vicious-widgets/vicious)
+- [Vicious](https://github.com/vicious-widgets/vicious)
 
 - `rc.lua`
